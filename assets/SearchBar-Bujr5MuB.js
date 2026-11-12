@@ -1,0 +1,2 @@
+import{j as i,B as t}from"./mui-09FF4pbI.js";function d({value:o,onChange:r,placeholder:e="搜索...",width:a=280}){return i.jsx(t,{component:"input",value:o,onChange:n=>r(n.target.value),placeholder:e,sx:{width:a,height:38,px:2,borderRadius:2,border:"1px solid",borderColor:"divider",bgcolor:"background.paper",fontSize:14,outline:"none","&:focus":{borderColor:"primary.main",boxShadow:"0 0 0 2px rgba(25,118,210,0.15)"}}})}export{d as S};
+//# sourceMappingURL=SearchBar-Bujr5MuB.js.map
